@@ -1,0 +1,6 @@
+{
+  "name": "Sharuk Khan - Public Policy & Strategy Consulting Portfolio",
+  "description": "An elite government advisory and strategy consulting portfolio tailored for Big 4 firms globally and in India. Features interactive capability mapping, waste impact simulators, and a Gemini-powered recruiter assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
